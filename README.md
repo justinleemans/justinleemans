@@ -1,3 +1,6 @@
-Im Justin "JeeLee" Leemans
+# Im Justin Leemans
 
-Website: [https://justinleemans.nl](http://justinleemans.nl/)
+I code for fun.
+
+- Website: [https://justinleemans.nl](http://justinleemans.nl/)
+- LinkedIn: [https://www.linkedin.com/in/justin-leemans](https://www.linkedin.com/in/justin-leemans)
