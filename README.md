@@ -1,5 +1,3 @@
-# Welcome
-
 ```
        __           __  _          __                                       
       / /_  _______/ /_(_)___     / /  ___  ___  ____ ___  ____ _____  _____
@@ -9,7 +7,7 @@
                                                                             
 ```
 
-I code for fun
+I code for fun, professional developer with experience as game programmer and web developer
 
 - Website: [https://justinleemans.nl](http://justinleemans.nl/)
 - LinkedIn: [https://www.linkedin.com/in/justin-leemans](https://www.linkedin.com/in/justin-leemans)
